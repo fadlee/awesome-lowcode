@@ -18,6 +18,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Online database creator apps](#online-database-creator-apps)
 * [Visual programming](#visual-programming)
 * [Misc](#misc)
+* [Open Source](#open-source)
 
 ## Automation
 
@@ -107,8 +108,15 @@ Everyone is welcome to submit their new Awesome low-code item.
 * [Screenshot](https://www.screenshotapi.net/) - Programmatic Screenshots of Any Website in Seconds.
 * [Shopify](https://shopify.com/) - Build your business.
 * [Stripe](https://stripe.com) - The new standard in online payments.
-* [ToolJet](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
 * [Vantiq](https://vantiq.com/) - The Only Low Code Platform for Real Time Systems.
 * [Voiceflow](https://www.voiceflow.com/) - Design, prototype and build voice apps.
 * [Zendesk](https://www.zendesk.com/) - Build the best customer experiences.
 
+* [Betty Blocks](https://www.bettyblocks.com/) - Betty Blocks is the #1 Citizen Development platform for enterprises.
+
+## Open Source
+
+* [ToolJet](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
+* [Frappe](https://github.com/frappe/frappe) - Low code, open source, web framework in Python and Javascript.
+* [Steedos](https://github.com/steedos/steedos-platform) - Low-Code / No-Code Platform, Self-hosted salesforce alternative.
+* [Badaso](https://github.com/uasoft-indonesia/badaso) - The API & platform builder, build your apps 10x faster even more, it's open source & 100% free !
